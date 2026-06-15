@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhav Kohli</h1>
+<h3 align="center">Computer Science Engineering Student</h3>
 
-<!--
-**mkmadhavkohli-glitch/mkmadhavkohli-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about Software Development, Full Stack Development, and AI.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Skilled in Java, Python, C, HTML, CSS & JavaScript
+- 🌱 Currently learning MERN Stack & DSA
+- 🎬 Built **MoodFlix** – A Movie Recommendation System
+- 🤖 Exploring AI-Powered Full Stack Development
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github,vscode,mongodb,nodejs,react" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+### 🌟 Featured Project
+
+#### MoodFlix
+A movie recommendation system that suggests movies based on the user's mood.
