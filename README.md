@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-<h1 align="center">Hi 👋, I'm Maddy</h1>
+<h1 align="center">Hi 👋, I'm MADHAV KOHLI </h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 <h1 align="center">Hi 👋, I'm Madhav Kohli</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
